@@ -1,2 +1,2 @@
 ### Hey there👋
-![Aqua's GitHub stats](https://github-readme-stats.vercel.app/api?username=AquaNot&show_icons=true&theme=radical)
+<img src="https://komarev.com/ghpvc/?AquaNot&style=flat-square&color=blue" alt=""/>
