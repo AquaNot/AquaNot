@@ -5,5 +5,5 @@
 # Profile views
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@xyzbtwt?theme=gelbooru" />
+  <img src="https://count.getloli.com/get/@aquanot?theme=gelbooru" />
 </p>
